@@ -17,7 +17,7 @@ This is the URL for the deployed application: href:https://melkali42..github.io/
 This is the URL for my GitHub repository for this challenge: https://github.com/melkali42/module_1_challenge_seo_website_revamp
 
 
-    ![screenshot of website refactor](./Images-MK/Screenshot%20of%20deployed%20website.png)
+    ![screenshot of website refactor](https://github.com/melkali42/module_1_challenge_seo_website_revamp/blob/main/Images-MK/Screenshot%20of%20deployed%20website.png)
 
 
 ## Credits
