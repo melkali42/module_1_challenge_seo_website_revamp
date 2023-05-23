@@ -12,7 +12,7 @@ I used HTML and CSS for this challenge
 ## Usage
 
 
-This is the URL for the deployed application: href:https://melkali42..github.io/module_1_challenge_seo_website_revamp/
+This is the URL for the deployed application: href:https://melkali42.github.io/module_1_challenge_seo_website_revamp/
 
 This is the URL for my GitHub repository for this challenge: https://github.com/melkali42/module_1_challenge_seo_website_revamp
 
